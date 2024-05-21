@@ -18,5 +18,6 @@ try {
 } finally {
   console.log("Executed!");
 }
+// finally will be executed anyway
 
 console.log('test');
